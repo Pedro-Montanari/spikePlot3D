@@ -21,3 +21,5 @@ guide and the function file for documentation.
 
 The code uses the function "linmap" inspired by machinelearning1's post found on
 https://machinelearning1.wordpress.com/2014/07/13/linear-vector-mapping-scaling-matlab/
+
+[![View spikePlot3D on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/156822-spikeplot3d)
