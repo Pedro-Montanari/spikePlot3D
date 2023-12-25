@@ -9,7 +9,7 @@ according to a decaying exponential function, and sums the
 contributions of all polar domains to a structured cartesian domain.
 
 The exponential function used in this algorithm is given by 
-$$V = v*\left(1- \frac{r}{r_0}\right)\left(\frac{\exp(r_0-r)}{\exp(r_0)}\right)$$,
+$$V = v*\left(1- \frac{r}{r_0}\right)\left(\frac{\exp(r_0-r)}{\exp(r_0)}\right)$$
 where "V" is the calculated value in the current point, "v" is the 
 function value at the sample point, and "r" is the distance from the 
 sample point to the current point. At the sample point the value of the
